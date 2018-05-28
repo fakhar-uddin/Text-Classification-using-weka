@@ -37,7 +37,6 @@ public class Weka4
 		if (m_Filter instanceof OptionHandler)
 			((OptionHandler) m_Filter).setOptions(options);
 	}
-
 	/**
 	 * sets the file to use for training
 	 */
