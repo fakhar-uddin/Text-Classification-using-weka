@@ -23,7 +23,6 @@ public class Main
 	 * This method is to load the data set.
 	 * 
 	 * @param fileName
-	 * @return
 	 * @throws Exception
 	 */
 	public static Instances getDataSet(String fileName) throws Exception
